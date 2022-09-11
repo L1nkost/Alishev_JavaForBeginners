@@ -15,10 +15,10 @@ public class less10_switch {
                 System.out.println("Ты пошёл в школу");
                 break;
             case 18:
-                System.out.println("Ты спился");
+                System.out.println("Ты окончил школу");
                 break;
             default:
-                System.out.println("Ты никто нахуй");
+                System.out.println("Нет варианта ответа");
         }
     }
 }

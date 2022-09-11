@@ -7,15 +7,15 @@ public class If {
         int a = 7;
 
         if (a >= 8) {
-            System.out.println("Гей ");
+            System.out.println("Человек ");
         } else if (a >= 6) {
-            System.out.println("Уже не совсем гей ");
+            System.out.println("Уже не совсем человек ");
 
         } else if (a >= 4) {
-            System.out.println("Почти не гей ");
+            System.out.println("Почти не человек ");
 
         } else if (a >= 2) {
-            System.out.println("Не гей ");
+            System.out.println("Не человек ");
 
         }
     }
