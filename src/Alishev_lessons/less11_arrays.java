@@ -8,7 +8,7 @@ public class less11_arrays {
             System.out.println(numbers[i]);
         }
         System.out.println();
-        int[] numbers1 = {1,5,8,0,4};
+        int[] numbers1 = {1,3,8,0,4};
         for( int i = 0; i< numbers1.length; i++) {
             System.out.println(numbers1[i]);
         }

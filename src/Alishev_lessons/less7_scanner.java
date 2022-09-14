@@ -6,6 +6,6 @@ public class less7_scanner {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите слово");
         String str = sc.nextLine();
-        System.out.println("Вы ввели "+str);
+        System.out.println("Вы ввели " +str);
     }
 }

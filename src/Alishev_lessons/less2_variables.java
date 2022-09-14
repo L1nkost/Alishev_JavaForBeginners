@@ -1,6 +1,6 @@
 package Alishev_lessons;
 
-public class less2_переменные {
+public class less2_variables {
     public static void main(String [] args) {
         int myInt;
         short myShort = 345;
