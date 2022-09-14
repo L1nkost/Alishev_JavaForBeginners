@@ -14,4 +14,3 @@ public class less6_if {
         }
         }
     }
-
