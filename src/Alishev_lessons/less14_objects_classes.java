@@ -2,13 +2,13 @@ package Alishev_lessons;
 
 public class less14_objects_classes {
     public static void main(String[] args) {
-        Person pers1 = new Person();
+        Person1 pers1 = new Person1();
         pers1.name = "рома";
         pers1.age = 19;
 
         System.out.println("меня зовут " +pers1.name + ", " + "мне " + pers1.age + " лет ");
 
-        Person pers2 = new Person();
+        Person1 pers2 = new Person1();
         pers2.name = "вован";
         pers2.age = 34;
 
@@ -16,7 +16,7 @@ public class less14_objects_classes {
     }
 }
 
-class Person {
+class Person1 {
     String name;
     int age;
 }
