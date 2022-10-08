@@ -1,4 +1,4 @@
 package Alishev_lessons;
 
-public class Cat extends Animal{
+public class Cat{
 }
