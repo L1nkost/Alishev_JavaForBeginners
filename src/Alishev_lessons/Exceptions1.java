@@ -10,7 +10,7 @@ public class Exceptions1 {
     }
 
     public static void readFile() {
-        File file = new File("Test6");
+        File file = new File("test6");
         try {
             Scanner scanner = new Scanner(file);
         } catch (FileNotFoundException e) {
