@@ -1,4 +1,4 @@
-package Interfaces;
+package Alishev_lessons.Interfaces;
 
 public class Animal implements Info {
     public int id;

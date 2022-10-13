@@ -1,4 +1,4 @@
-package Interfaces;
+package Alishev_lessons.Interfaces;
 
 public class Test {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Interfaces;
+package Alishev_lessons.Interfaces;
 
 public class Person implements Info {
     public String name;

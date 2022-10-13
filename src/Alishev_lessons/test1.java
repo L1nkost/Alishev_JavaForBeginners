@@ -1,6 +1,6 @@
 package Alishev_lessons;
 
-import Forest.*;  // "*" импортируёт всё с этого пакета
+import Alishev_lessons.Forest.*;  // "*" импортируёт всё с этого пакета
 
 import java.util.*;
 

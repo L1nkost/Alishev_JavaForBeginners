@@ -1,6 +1,6 @@
 package Alishev_lessons.InsertedClass;
 
-import Forest.Something.SomeClass;
+import Alishev_lessons.Forest.Something.SomeClass;
 
 public class Electrocar {
     private int id;
